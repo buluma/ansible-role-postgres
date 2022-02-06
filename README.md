@@ -4,7 +4,7 @@ Install and configure postgres on your system.
 
 |GitHub|GitLab|Quality|Downloads|Version|
 |------|------|-------|---------|-------|
-|[![github](https://github.com/buluma/ansible-role-postgres/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-postgres/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-postgres/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-postgres)|[![quality](https://img.shields.io/ansible/quality/)](https://galaxy.ansible.com/buluma/postgres)|[![downloads](https://img.shields.io/ansible/role/d/)](https://galaxy.ansible.com/buluma/postgres)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-postgres.svg)](https://github.com/buluma/ansible-role-postgres/releases/)|
+|[![github](https://github.com/buluma/ansible-role-postgres/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-postgres/actions)|[![gitlab](https://gitlab.com/buluma/ansible-role-postgres/badges/main/pipeline.svg)](https://gitlab.com/buluma/ansible-role-postgres)|[![quality](https://img.shields.io/ansible/quality/57951)](https://galaxy.ansible.com/buluma/postgres)|[![downloads](https://img.shields.io/ansible/role/d/57951)](https://galaxy.ansible.com/buluma/postgres)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-postgres.svg)](https://github.com/buluma/ansible-role-postgres/releases/)|
 
 ## [Example Playbook](#example-playbook)
 
