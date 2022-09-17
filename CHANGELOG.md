@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.0.7](https://github.com/buluma/ansible-role-postgres/tree/1.0.7) (2022-05-13)
+
+[Full Changelog](https://github.com/buluma/ansible-role-postgres/compare/1.0.6...1.0.7)
+
 ## [1.0.6](https://github.com/buluma/ansible-role-postgres/tree/1.0.6) (2022-03-29)
 
 [Full Changelog](https://github.com/buluma/ansible-role-postgres/compare/1.0.5...1.0.6)
