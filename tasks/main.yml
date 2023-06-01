@@ -40,19 +40,19 @@
   notify:
     - Restart postgres
   loop:
-    - name: port
+    - name: Port
       value: "{{ postgres_port }}"
-    - name: listen_addresses
+    - name: Listen_addresses
       value: "{{ postgres_listen_addresses }}"
-    - name: unix_socket_directories
+    - name: Unix_socket_directories
       value: "{{ postgres_unix_socket_directories }}"
-    - name: log_timezone
+    - name: Log_timezone
       value: "{{ postgres_log_timezone }}"
-    - name: datestyle
+    - name: Datestyle
       value: "{{ postgres_datestyle }}"
-    - name: timezone
+    - name: Timezone
       value: "{{ postgres_timezone }}"
-    - name: default_text_search_config
+    - name: Default_text_search_config
       value: "{{ postgres_default_text_search_config }}"
   loop_control:
     label: "{{ item.name }}"
@@ -67,9 +67,9 @@
   notify:
     - Restart postgres
   loop:
-    - name: max_wal_size
+    - name: Max_wal_size
       value: "{{ postgres_max_wal_size }}"
-    - name: min_wal_size
+    - name: Min_wal_size
       value: "{{ postgres_min_wal_size }}"
   loop_control:
     label: "{{ item.name }}"
@@ -102,6 +102,7 @@
   when:
     - postgres_databases is defined or
       postgres_users is defined
+    - ansible_os_family != "Debian"
 
 - name: Flush handlers again
   ansible.builtin.meta: flush_handlers
