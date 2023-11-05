@@ -2,9 +2,9 @@
 
 Install and configure postgres on your system.
 
-|GitHub|GitLab|Quality|Downloads|Version|Issues|Pull Requests|
-|------|------|-------|---------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-postgres/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-postgres/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-postgres/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-postgres)|[![quality](https://img.shields.io/ansible/quality/57951)](https://galaxy.ansible.com/buluma/postgres)|[![downloads](https://img.shields.io/ansible/role/d/57951)](https://galaxy.ansible.com/buluma/postgres)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-postgres.svg)](https://github.com/buluma/ansible-role-postgres/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-postgres.svg)](https://github.com/buluma/ansible-role-postgres/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-postgres.svg)](https://github.com/buluma/ansible-role-postgres/pulls/)|
+|GitHub|GitLab|Downloads|Version|Issues|Pull Requests|
+|------|------|-------|-------|------|-------------|
+|[![github](https://github.com/buluma/ansible-role-postgres/workflows/Ansible%20Molecule/badge.svg)](https://github.com/buluma/ansible-role-postgres/actions)|[![gitlab](https://gitlab.com/shadowwalker/ansible-role-postgres/badges/master/pipeline.svg)](https://gitlab.com/shadowwalker/ansible-role-postgres)|[![downloads](https://img.shields.io/ansible/role/d/4805)](https://galaxy.ansible.com/buluma/postgres)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-postgres.svg)](https://github.com/buluma/ansible-role-postgres/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-postgres.svg)](https://github.com/buluma/ansible-role-postgres/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-postgres.svg)](https://github.com/buluma/ansible-role-postgres/pulls/)|
 
 ## [Example Playbook](#example-playbook)
 
