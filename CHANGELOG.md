@@ -52,11 +52,14 @@
 **Merged pull requests:**
 
 - role ID update [\#2](https://github.com/buluma/ansible-role-postgres/pull/2) ([buluma](https://github.com/buluma))
-- trigger gitlab [\#1](https://github.com/buluma/ansible-role-postgres/pull/1) ([buluma](https://github.com/buluma))
 
 ## [1.0.0](https://github.com/buluma/ansible-role-postgres/tree/1.0.0) (2022-02-06)
 
 [Full Changelog](https://github.com/buluma/ansible-role-postgres/compare/9b39ae17422b03c200398ce621ea792a96efecd5...1.0.0)
+
+**Merged pull requests:**
+
+- trigger gitlab [\#1](https://github.com/buluma/ansible-role-postgres/pull/1) ([buluma](https://github.com/buluma))
 
 
 
