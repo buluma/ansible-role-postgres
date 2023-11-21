@@ -1,5 +1,14 @@
 # Changelog
 
+## [Unreleased](https://github.com/buluma/ansible-role-postgres/tree/HEAD)
+
+[Full Changelog](https://github.com/buluma/ansible-role-postgres/compare/1.0.8...HEAD)
+
+**Closed issues:**
+
+- Update buluma/todo-to-issue-action@v1.0.1 @buluma [\#16](https://github.com/buluma/ansible-role-postgres/issues/16)
+- Update action [\#15](https://github.com/buluma/ansible-role-postgres/issues/15)
+
 ## [1.0.8](https://github.com/buluma/ansible-role-postgres/tree/1.0.8) (2022-10-06)
 
 [Full Changelog](https://github.com/buluma/ansible-role-postgres/compare/1.0.7...1.0.8)
