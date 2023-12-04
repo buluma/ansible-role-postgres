@@ -21,10 +21,6 @@
 
 [Full Changelog](https://github.com/buluma/ansible-role-postgres/compare/1.0.5...1.0.6)
 
-**Merged pull requests:**
-
-- Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.3 to 1.0.4 [\#8](https://github.com/buluma/ansible-role-postgres/pull/8) ([dependabot[bot]](https://github.com/apps/dependabot))
-
 ## [1.0.5](https://github.com/buluma/ansible-role-postgres/tree/1.0.5) (2022-03-20)
 
 [Full Changelog](https://github.com/buluma/ansible-role-postgres/compare/1.0.4...1.0.5)
@@ -51,6 +47,7 @@
 
 **Merged pull requests:**
 
+- Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.3 to 1.0.4 [\#8](https://github.com/buluma/ansible-role-postgres/pull/8) ([dependabot[bot]](https://github.com/apps/dependabot))
 - pipeline fix [\#4](https://github.com/buluma/ansible-role-postgres/pull/4) ([buluma](https://github.com/buluma))
 - fix runners [\#3](https://github.com/buluma/ansible-role-postgres/pull/3) ([buluma](https://github.com/buluma))
 
