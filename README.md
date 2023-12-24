@@ -1,10 +1,10 @@
-# [Ansible role postgres](#postgres)
+# Ansible role [postgres](https://galaxy.ansible.com/ui/standalone/roles/buluma/postgres/documentation)
 
 Install and configure postgres on your system.
 
-|GitHub|Version|Issues|Pull Requests|
-|------|-------|------|-------------|
-|[![github](https://github.com/buluma/ansible-role-postgres/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-postgres/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-postgres.svg)](https://github.com/buluma/ansible-role-postgres/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-postgres.svg)](https://github.com/buluma/ansible-role-postgres/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-postgres.svg)](https://github.com/buluma/ansible-role-postgres/pulls/)|
+|GitHub|Version|Issues|Pull Requests|Downloads|
+|------|-------|------|-------------|---------|
+|[![github](https://github.com/buluma/ansible-role-postgres/actions/workflows/molecule.yml/badge.svg)](https://github.com/buluma/ansible-role-postgres/actions/workflows/molecule.yml)|[![Version](https://img.shields.io/github/release/buluma/ansible-role-postgres.svg)](https://github.com/buluma/ansible-role-postgres/releases/)|[![Issues](https://img.shields.io/github/issues/buluma/ansible-role-postgres.svg)](https://github.com/buluma/ansible-role-postgres/issues/)|[![PullRequests](https://img.shields.io/github/issues-pr-closed-raw/buluma/ansible-role-postgres.svg)](https://github.com/buluma/ansible-role-postgres/pulls/)|[![Ansible Role](https://img.shields.io/ansible/role/d/buluma/postgres)](https://galaxy.ansible.com/ui/standalone/roles/buluma/postgres/documentation)|
 
 ## [Example Playbook](#example-playbook)
 
@@ -140,13 +140,11 @@ If you find issues, please register them in [GitHub](https://github.com/buluma/a
 
 ## [License](#license)
 
-[Apache-2.0](https://github.com/buluma/ansible-role-postgres/blob/master/LICENSE).
+[Apache-2.0](https://github.com/buluma/ansible-role-postgres/blob/master/LICENSE)
 
 ## [Author Information](#author-information)
 
-[buluma](https://buluma.github.io/)
+[Shadow Walker](https://buluma.github.io/)
 
-
-### [Special Thanks](#special-thanks)
 
 Template inspired by [Robert de Bock](https://github.com/robertdebock)
