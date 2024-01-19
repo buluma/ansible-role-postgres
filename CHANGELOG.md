@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Bump buluma/molecule-action from 6.0.0 to 6.0.1 [\#23](https://github.com/buluma/ansible-role-postgres/pull/23) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.5 to 1.0.8 [\#22](https://github.com/buluma/ansible-role-postgres/pull/22) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump actions/checkout from 3 to 4 [\#21](https://github.com/buluma/ansible-role-postgres/pull/21) ([dependabot[bot]](https://github.com/apps/dependabot))
 
@@ -60,7 +61,6 @@
 
 **Merged pull requests:**
 
-- Bump buluma/gh-action-auto-merge-dependabot-updates from 1.0.5 to 1.0.8 [\#22](https://github.com/buluma/ansible-role-postgres/pull/22) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump buluma/molecule-action from 4.0.5 to 4.0.6 [\#5](https://github.com/buluma/ansible-role-postgres/pull/5) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [1.0.2](https://github.com/buluma/ansible-role-postgres/tree/1.0.2) (2022-02-11)
