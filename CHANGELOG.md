@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- Bump buluma/dependabot-auto-merge-action from 2.1.1 to 2.1.2 [\#27](https://github.com/buluma/ansible-role-postgres/pull/27) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#26](https://github.com/buluma/ansible-role-postgres/pull/26) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump release-drafter/release-drafter from 5 to 6 [\#25](https://github.com/buluma/ansible-role-postgres/pull/25) ([dependabot[bot]](https://github.com/apps/dependabot))
 
