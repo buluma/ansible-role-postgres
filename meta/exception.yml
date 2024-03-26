@@ -5,4 +5,4 @@ exceptions:
   - variation: amazonlinux:1
     reason: "/etc/init.d/postgresql: line 37: /etc/sysconfig/network: No such file or directory"
   - variation: amazonlinux
-    reason: "Dependency (python_pip) no supported."
+    reason: "Dependency (python_pip) false supported."
