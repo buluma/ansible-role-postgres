@@ -6,6 +6,7 @@
 
 **Closed issues:**
 
+- Update action [\#18](https://github.com/buluma/ansible-role-postgres/issues/18)
 - rebuild action [\#17](https://github.com/buluma/ansible-role-postgres/issues/17)
 
 ## [24.3.31](https://github.com/buluma/ansible-role-postgres/tree/24.3.31) (2024-03-31)
