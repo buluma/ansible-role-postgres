@@ -10,24 +10,24 @@ galaxy_info:
     - name: Alpine
       versions:
         - all
-  - name: EL
-    versions:
-    - all
-  - name: Debian
-    versions:
-    - all
-  - name: Fedora
-    versions:
-    - all
-  - name: opensuse
-    versions:
-    - all
-  - name: Ubuntu
-    versions:
-    - all
-  - name: Kali
-    versions:
-    - all
+    - name: EL
+      versions:
+        - all
+    - name: Debian
+      versions:
+        - all
+    - name: Fedora
+      versions:
+        - all
+    - name: opensuse
+      versions:
+        - all
+    - name: Ubuntu
+      versions:
+        - all
+    - name: Kali
+      versions:
+        - all
   galaxy_tags:
     - postgres
 dependencies: []
