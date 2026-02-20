@@ -100,8 +100,7 @@
     name: psycopg2-binary
     state: present
   when:
-    - postgres_databases is defined or
-      postgres_users is defined
+    - postgres_databases is defined or postgres_users is defined
     - ansible_os_family != "Debian"
 
 - name: Flush handlers again
