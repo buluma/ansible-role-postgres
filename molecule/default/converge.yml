@@ -1,9 +1,9 @@
 ---
-  - name: Converge
-    hosts: all
-    become: true
-    gather_facts: true
+- name: Converge
+  hosts: all
+  become: true
+  gather_facts: true
 
-    roles:
-      - role: buluma.postgres
-        postgres_port: 6543
+  roles:
+  - role: buluma.postgres
+    postgres_port: 6543
