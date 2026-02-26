@@ -59,34 +59,34 @@ postgres_timezone: UTC
 postgres_default_text_search_config: pg_catalog.english
 
 postgres_hba_entries:
-- type: local
-  database: all
-  user: all
-  method: peer
-- type: host
-  database: all
-  user: all
-  address: "127.0.0.1/32"
-  method: ident
-- type: host
-  database: all
-  user: all
-  address: "::1/128"
-  method: ident
-- type: local
-  database: replication
-  user: all
-  method: peer
-- type: host
-  database: replication
-  user: all
-  address: "127.0.0.1/32"
-  method: ident
-- type: host
-  database: replication
-  user: all
-  address: "::1/128"
-  method: ident
+  - type: local
+    database: all
+    user: all
+    method: peer
+  - type: host
+    database: all
+    user: all
+    address: "127.0.0.1/32"
+    method: ident
+  - type: host
+    database: all
+    user: all
+    address: "::1/128"
+    method: ident
+  - type: local
+    database: replication
+    user: all
+    method: peer
+  - type: host
+    database: replication
+    user: all
+    address: "127.0.0.1/32"
+    method: ident
+  - type: host
+    database: replication
+    user: all
+    address: "::1/128"
+    method: ident
 ```
 
 ## [Requirements](#requirements)
